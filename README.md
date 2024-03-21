@@ -1,5 +1,5 @@
 # Hi there, I'm Rwaa👋
-I am an English Language and Translaition graduate. I work in Sina Lab which is specialized in computerizing the Arabic language and icorporating it in AI language models. 
+I am an English Language and Translaition graduate. I work in Sina Lab which is specialized in computerizing the Arabic language and incorporating it in AI language models. 
 ## About me
 - I am currently learning FrontEnd programming.
 - How to reach me [rwaaassi123@gmail.com](rwaaassi123@gmail.com)
